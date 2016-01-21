@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Bla
+=======
+# LabResp
+>>>>>>> parent of 7dfcc96... Delete Test2
